@@ -54,4 +54,4 @@ Diabetes is one of the most prevalent chronic diseases globally. This project us
 ---
 
 ## 📄 Report
-📑 [Diabetes Statistical Report](https://github.com/zhijing31/zhijing-data-journey/blob/main/NUS/DSA1101/Diabetes%20proj.pdf)
+📑 [Diabetes Statistical Report](https://github.com/zhijing31/Diabetes-Statistical-Report/blob/main/Diabetes.pdf)
