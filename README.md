@@ -1,4 +1,4 @@
-## 📝 Project Title: Diabetes Statistical Report
+## 📝 Project Title: Diabetes Prediction and Analysis
 
 This project investigates key health indicators associated with diabetes using classification models.
 
